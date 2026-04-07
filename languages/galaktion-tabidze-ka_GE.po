@@ -1,0 +1,62 @@
+# Georgian translation of Galaktion Tabidze plugin
+# Copyright (C) 2026 Dimitri Gogelia
+# Translator: Dimitri Gogelia <dimitrigog>
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Galaktion Tabidze 1.0.0\n"
+"Report-Msgid-Bugs-To: https://gogelia.ge\n"
+"POT-Creation-Date: 2026-03-16\n"
+"PO-Revision-Date: 2026-03-16 14:37+0400\n"
+"Last-Translator: Dimitri Gogelia <dmitri@gogelia.ge>\n"
+"Language-Team: Georgian\n"
+"Language: ka_GE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.9\n"
+
+#. Plugin Description (readme.txt short description & plugin header)
+msgid "When activated you will randomly see a line from <cite>მთაწმინდის მთვარე</cite> by Galaktion Tabidze in the upper right of your admin screen on every page."
+msgstr "გააქტიურებისას, ადმინ-პანელის თითოეული გვერდის ზედა მარჯვენა კუთხეში შემთხვევით გამოჩნდება სტრიქონი გალაქტიონ ტაბიძის <cite>მთაწმინდის მთვარე</cite>-დან."
+
+#. readme.txt == Description ==
+msgid "This plugin pays tribute to Galaktion Tabidze (1892–1959), one of Georgia's greatest poets. When activated, a randomly chosen line from his celebrated poem <cite>მთაწმინდის მთვარე</cite> (The Moon of Mtatsminda) will appear in the upper right of your WordPress admin screen on every page."
+msgstr "ეს დანამატი პატივს მიაგებს გალაქტიონ ტაბიძეს (1892–1959), საქართველოს ერთ-ერთ უდიდეს პოეტს. გააქტიურებისას, WordPress-ის ადმინ-პანელის თითოეული გვერდის ზედა მარჯვენა კუთხეში შემთხვევით გამოჩნდება სტრიქონი მისი ცნობილი ლექსიდან <cite>მთაწმინდის მთვარე</cite> (მთაწმინდის მთვარე)."
+
+#. readme.txt == Installation == step 1
+msgid "Upload the `galaktion-tabidze` folder to the `/wp-content/plugins/` directory."
+msgstr "ატვირთეთ `galaktion-tabidze` საქაღალდე `/wp-content/plugins/` დირექტორიაში."
+
+#. readme.txt == Installation == step 2
+msgid "Activate the plugin through the **Plugins** menu in WordPress."
+msgstr "გაააქტიურეთ დანამატი WordPress-ის **Plugins** მენიუს გამოყენებით."
+
+#. readme.txt == Installation == step 3
+msgid "Enjoy a line of Georgian poetry on every admin page."
+msgstr "ისიამოვნეთ ქართული პოეზიის სტრიქონით ადმინ-პანელის თითოეულ გვერდზე."
+
+#. readme.txt == FAQ == question 1
+msgid "What language is the poem in?"
+msgstr "რა ენაზეა დაწერილი ლექსი?"
+
+#. readme.txt == FAQ == answer 1
+msgid "The poem is in Georgian (ქართული). Galaktion Tabidze wrote in Georgian and the lyrics are displayed as he wrote them."
+msgstr "ლექსი ქართულ ენაზეა (ქართული). გალაქტიონ ტაბიძე ქართულ ენაზე წერდა და ტექსტი ორიგინალური სახით გამოჩნდება."
+
+#. readme.txt == FAQ == question 2
+msgid "Can I translate the plugin interface?"
+msgstr "შემიძლია თუ არა დანამატის ინტერფეისის თარგმნა?"
+
+#. readme.txt == FAQ == answer 2
+msgid "Yes. The plugin is fully internationalised. You can contribute translations at translate.wordpress.org."
+msgstr "დიახ. დანამატი სრულად ინტერნაციონალიზებულია. შეგიძლიათ შეიტანოთ თარგმანები translate.wordpress.org-ზე."
+
+#. readme.txt == Changelog == 1.0.0
+msgid "Initial release."
+msgstr "პირველი გამოშვება."
+
+#. translators: screen reader label shown before each poem line in WP admin
+#: galaktion-tabidze.php:60
+msgid "Line from მთაწმინდის მთვარე by Galaktion Tabidze:"
+msgstr "სტრიქონი გალაქტიონ ტაბიძის „მთაწმინდის მთვარე\"-დან:"
